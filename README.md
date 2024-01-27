@@ -1,4 +1,4 @@
-#Machine Learning Projects Repository
+# Machine Learning Projects Repository
 Welcome to the Machine Learning Projects Repository! This repository contains a collection of diverse machine learning projects that cover a range of domains. Feel free to explore, learn, and contribute to the projects listed below.
 
 Projects:
